@@ -5,4 +5,5 @@ date: 2022-06-23
 category: project
 ---
 
-[QR Code component practice](https://github.com/xjyscx/first-QR-code-component-challenge.git)
+# [QR Code component practice](https://xjyscx.github.io/QR-code-component-challenge/)
+[Code](https://github.com/xjyscx/xjyscx.github.io.git)
